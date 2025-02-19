@@ -1,7 +1,7 @@
 # 4640-w7-lab-start-w25
 
 Use the command:
-ssh-keygen -t ed25519 -f ~/.ssh/<key-name> -C "<commnet-to-identify-key>"
+ssh-keygen -t ed25519 -f ~/.ssh/"key-name" -C "comment-to-identify-key"
 
 to create a key to import into aws.
 
